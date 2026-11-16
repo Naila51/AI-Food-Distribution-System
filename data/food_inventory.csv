@@ -1,0 +1,9 @@
+item_id,item_name,category,quantity_kg,expiry_date,location,donor,status
+1,Apples,Produce,48.5,2026-11-20,Warehouse A,FreshMart,available
+2,Whole milk,Dairy,22.0,2026-11-18,Warehouse A,City Dairy,available
+3,Canned beans,Pantry,120.0,2027-03-01,Warehouse B,Helping Hands,available
+4,Sourdough bread,Bakery,16.0,2026-11-17,Kitchen Hub,Rise Bakery,available
+5,Chicken breasts,Protein,18.0,2026-11-19,Cold Storage,Metro Foods,available
+6,Rice,Pantry,75.0,2027-08-12,Warehouse B,Harvest Co-op,available
+7,Salad mix,Produce,9.0,2026-11-17,Warehouse A,Green Fields,expiring_soon
+8,Yogurt cups,Dairy,14.0,2026-11-21,Warehouse A,City Dairy,available
